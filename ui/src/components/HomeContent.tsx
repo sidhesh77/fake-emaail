@@ -372,14 +372,7 @@ export function HomeContent() {
           <p className="mt-4 text-xs text-ash">
             Last verified: 2026-05-25. Competitor features change frequently —
             check their sites for the latest. If we are out of date,{" "}
-            <a
-              className="text-vermillion underline underline-offset-4"
-              href="https://github.com/sidhesh77/fake-email/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              open an issue
-            </a>
+            <span className="text-vermillion underline underline-offset-4">open an issue</span>
             .
           </p>
         </div>
@@ -548,16 +541,7 @@ Content-Type: application/json
                   API
                 </Link>
               </li>
-              <li>
-                <a
-                  href="https://github.com/sidhesh77/fake-email"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-vermillion"
-                >
-                  GitHub
-                </a>
-              </li>
+
             </ul>
           </nav>
         </div>
