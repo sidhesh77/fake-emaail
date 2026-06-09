@@ -138,7 +138,7 @@ const ORGANIZATION_JSONLD = {
     width: 512,
     height: 512,
   },
-  sameAs: ["https://github.com/Shivrajsoni/fake-email"],
+  sameAs: ["https://github.com/sidhesh77/fake-email"],
 } as const;
 
 const WEBSITE_JSONLD = {

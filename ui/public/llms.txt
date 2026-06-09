@@ -51,7 +51,7 @@ GET https://fake-email.site/api/health
 
 ## Repository
 
-https://github.com/Shivrajsoni/fake-email
+https://github.com/sidhesh77/fake-email
 
 ## License
 

@@ -63,7 +63,7 @@ const ARTICLE_JSONLD = {
   author: {
     "@type": "Person",
     name: "Shivraj Soni",
-    url: "https://github.com/Shivrajsoni",
+    url: "https://github.com/sidhesh77",
   },
   publisher: { "@id": `${SITE_URL}/#organization` },
   keywords: [
@@ -834,7 +834,7 @@ shred -u deploy_ed25519 deploy_ed25519.pub`}
           </p>
           <pre className="mt-5 overflow-x-auto text-xs bg-ink text-page p-5 font-mono leading-relaxed">
 {`# on EC2 (Ubuntu 22.04)
-git clone https://github.com/Shivrajsoni/fake-email
+git clone https://github.com/sidhesh77/fake-email
 cd fake-email
 DATABASE_URL='postgres://...' \\
 VERCEL_ORIGIN='https://your-app.vercel.app' \\
@@ -849,7 +849,7 @@ git push origin main
           </pre>
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="https://github.com/Shivrajsoni/fake-email"
+              href="https://github.com/sidhesh77/fake-email"
               target="_blank"
               rel="noopener noreferrer"
               className="h-12 px-6 bg-ink text-page font-display font-bold text-sm uppercase tracking-[0.15em] hover:bg-vermillion transition-colors flex items-center"
@@ -890,7 +890,7 @@ git push origin main
           <p>
             Written by{" "}
             <a
-              href="https://github.com/Shivrajsoni"
+              href="https://github.com/sidhesh77"
               target="_blank"
               rel="noopener noreferrer"
               className="text-vermillion underline underline-offset-4"
@@ -899,7 +899,7 @@ git push origin main
             </a>
             , maintainer of{" "}
             <a
-              href="https://github.com/Shivrajsoni/fake-email"
+              href="https://github.com/sidhesh77/fake-email"
               target="_blank"
               rel="noopener noreferrer"
               className="text-vermillion underline underline-offset-4"

@@ -374,7 +374,7 @@ export function HomeContent() {
             check their sites for the latest. If we are out of date,{" "}
             <a
               className="text-vermillion underline underline-offset-4"
-              href="https://github.com/Shivrajsoni/fake-email/issues"
+              href="https://github.com/sidhesh77/fake-email/issues"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -550,7 +550,7 @@ Content-Type: application/json
               </li>
               <li>
                 <a
-                  href="https://github.com/Shivrajsoni/fake-email"
+                  href="https://github.com/sidhesh77/fake-email"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-vermillion"

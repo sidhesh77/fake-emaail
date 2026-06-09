@@ -59,7 +59,7 @@ const ARTICLE_JSONLD = {
   author: {
     "@type": "Person",
     name: "Shivraj Soni",
-    url: "https://github.com/Shivrajsoni",
+    url: "https://github.com/sidhesh77",
   },
   publisher: { "@id": `${SITE_URL}/#organization` },
   keywords: [
@@ -524,7 +524,7 @@ for (let i = 0; i < 30; i++) {
               Read the API docs
             </Link>
             <a
-              href="https://github.com/Shivrajsoni/fake-email"
+              href="https://github.com/sidhesh77/fake-email"
               target="_blank"
               rel="noopener noreferrer"
               className="h-12 px-6 border-2 border-chalk text-smoke font-display font-bold text-sm uppercase tracking-[0.15em] hover:border-vermillion hover:text-vermillion transition-colors flex items-center"
@@ -559,7 +559,7 @@ for (let i = 0; i < 30; i++) {
           <p>
             Written by{" "}
             <a
-              href="https://github.com/Shivrajsoni"
+              href="https://github.com/sidhesh77"
               target="_blank"
               rel="noopener noreferrer"
               className="text-vermillion underline underline-offset-4"
@@ -568,7 +568,7 @@ for (let i = 0; i < 30; i++) {
             </a>
             , maintainer of{" "}
             <a
-              href="https://github.com/Shivrajsoni/fake-email"
+              href="https://github.com/sidhesh77/fake-email"
               target="_blank"
               rel="noopener noreferrer"
               className="text-vermillion underline underline-offset-4"
