@@ -62,7 +62,7 @@ const ARTICLE_JSONLD = {
   image: `${SITE_URL}/icon.png`,
   author: {
     "@type": "Person",
-    name: "Shivraj Soni",
+    name: "Sidhesh",
     url: "https://github.com/sidhesh77",
   },
   publisher: { "@id": `${SITE_URL}/#organization` },
@@ -895,7 +895,7 @@ git push origin main
               rel="noopener noreferrer"
               className="text-vermillion underline underline-offset-4"
             >
-              Shivraj Soni
+              Sidhesh
             </a>
             , maintainer of{" "}
             <a
